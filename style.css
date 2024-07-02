@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Lato;
+    src: url(Lato-Regular.ttf);
+}
+.header-container {
+    font-family: Lato;
+    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
